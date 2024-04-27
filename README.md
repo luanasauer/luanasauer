@@ -1,7 +1,7 @@
 
 ### Quem sou eu  👩
 Olá! Meu nome é Luana, formada em Análise e Desenvolvimento de Sistemas com experiência na área de suporte a sistemas de Ponto e Refeitório.
-Atualmente estou realizando cursos voltados para desenvolvimento de sistemas em Javascript com Typescript, React Native, ReactJS e NodeJS.
+Atualmente atuo com desenvolvimento de sistemas em Javascript com Typescript, React Native, ReactJS e NodeJS.
 
 ##
 <div style="display: inline_block"><br>
